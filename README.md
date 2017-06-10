@@ -10,15 +10,12 @@ Using a Deep Q-Network, we successfully trained the same architecture to perform
 
 ---
 
-**2048**
-[2048 (23112 Reward)](https://www.youtube.com/watch?v=pBC0zmVMf3A)
+[**2048** (23112 Reward)](https://www.youtube.com/watch?v=pBC0zmVMf3A)
 
 ---
 
-**Cart Pole**
-[Cart Pole (1795 Reward)](https://www.youtube.com/watch?v=4qiEMbupUyk)
+[**Cart Pole** (1795 Reward)](https://www.youtube.com/watch?v=4qiEMbupUyk)
 
 ---
 
-**GridWorld**
-[GridWorld (~90% completion)](Code/Watch_Network_Play_Grid_World.ipynb)
+[**GridWorld** (~90% completion)](Code/Watch_Network_Play_Grid_World.ipynb)
